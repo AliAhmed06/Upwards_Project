@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "upwardsae.com",
+  "Id": "cc88467e-39ec-4e8c-a2ae-5d5c2313ccbf"
+}

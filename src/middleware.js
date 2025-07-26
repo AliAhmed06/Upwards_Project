@@ -34,5 +34,5 @@ export function middleware(request) {
 }
 
 export const config = {
-  matcher: "/((?!_next|images|favicon|robots.txt|sitemap.xml).*)", // ✅ Allow images
+  matcher: "/((?!_next|images|favicon|robots.txt|sitemap.xml|.*\\.txt$).*)",
 };
